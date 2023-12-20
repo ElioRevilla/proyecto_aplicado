@@ -30,8 +30,6 @@ model_path_img = "/content/drive/MyDrive/[Tu ruta]/image_model_ViT"
 
 Asegúrate de reemplazar `[Tu ruta]` con la ruta exacta donde están ubicadas tus carpetas de modelo.
 
-## Soporte y Colaboración
-Si tienes preguntas o deseas contribuir al proyecto, no dudes en abrir un issue o un pull request. Para obtener más información sobre cómo contribuir, consulta [CONTRIBUTING.md](LINK_A_CONTRIBUTING.md).
 
 ## Autores
 - Alejandro Sandoval Arellano
